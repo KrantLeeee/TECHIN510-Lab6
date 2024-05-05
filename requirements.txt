@@ -1,0 +1,7 @@
+requests
+streamlit
+psycopg2-binary
+python-dotenv
+supabase
+google-generativeai
+ipython
